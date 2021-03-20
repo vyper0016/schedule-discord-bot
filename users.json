@@ -1,0 +1,28 @@
+{
+   "301025863044956180": {
+      "name": "Dum",
+      "sample": "csample.xlsx",
+      "cells": "cells.json",
+      "samplePicture": "whole.png",
+      "group": 1,
+      "classmates": [],
+      "toSkip": [
+         "maths",
+         "french",
+         "pe",
+         "german",
+         "mechanics",
+         "electric",
+         "computersc"
+      ]
+   },
+   "327469061543821342": {
+      "name": "Kachew",
+      "sample": "kachews.xlsx",
+      "cells": "kachewscells.json",
+      "samplePicture": "kachews.png",
+      "group": 2,
+      "classmates": [],
+      "toSkip": []
+   }
+}

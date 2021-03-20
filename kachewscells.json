@@ -1,0 +1,34 @@
+{
+  "set": true,
+  "title": "A1",
+  "Monday": [
+  	"D3",
+    "H3",
+    "J3",
+    "K3"
+  ],
+  "Tuesday": [
+    "B4",
+    "F4",
+    "I4"
+  ],
+  "Wednesday": [
+    "D5",
+    "E5",
+    "H5",
+    "K5"
+  ],
+  "Thursday": [
+    "B6",
+    "F6"
+  ],
+  "Friday": [
+    "C7",
+    "E7"
+  ],
+  "Saturday": [
+    "C8",
+    "D8",
+    "E8"
+  ]
+}
