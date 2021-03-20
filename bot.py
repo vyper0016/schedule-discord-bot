@@ -404,4 +404,4 @@ async def switch_error(ctx, error):
         await ctx.send('you have to include the subject! :thinking:')
         return
 
-client.run('NzU2NTk0MzMxMjc1NzU1NjQw.X2UHYQ.FbPDYkAL4QthBo-lJ7qM0pz0tgE')
+client.run('')
