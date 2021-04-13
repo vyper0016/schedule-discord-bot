@@ -5,16 +5,9 @@
       "cells": "cells.json",
       "samplePicture": "whole.png",
       "group": 1,
-      "classmates": [],
-      "toSkip": [
-         "maths",
-         "french",
-         "pe",
-         "german",
-         "mechanics",
-         "electric",
-         "computersc"
-      ]
+      "classmates": [685065053430349826],
+      "toSkip": [],
+      "dm": true
    },
    "327469061543821342": {
       "name": "Kachew",
@@ -23,6 +16,16 @@
       "samplePicture": "kachews.png",
       "group": 2,
       "classmates": [],
-      "toSkip": []
+      "toSkip": [],
+      "dm": false
+   },
+   "322073041410457601":{
+   	"dm": true
+   },
+   "637350757322194953":{
+   	"dm": true
+   },
+   "697765439547113482":{
+   	"dm": true
    }
 }
